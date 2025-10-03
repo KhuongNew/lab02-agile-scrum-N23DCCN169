@@ -18,7 +18,8 @@ Dự án Lab 2 mô phỏng hệ thống đặt phòng khách sạn: tìm phòng 
 ## 🖼️ Các sơ đồ UML & ERD  *(PNG trong `docs/`)*
 
 1. **Use Case Diagram**
-   `docs/usecase_diagram.png`  
+   ## Use Case Diagram
+![Use Case](docs/usecase_diagram.png)
 
 2. **Sequence Diagram – Đặt phòng (Booking)**
    `docs/sequence_booking.png`
