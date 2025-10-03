@@ -32,8 +32,8 @@ Dự án Lab 2 mô phỏng hệ thống đặt phòng khách sạn: tìm phòng 
    ![Sequence Online Payment](docs/sequence_online_payment.png)
 
 5. **ERD (Entity Relationship Diagram)**
-   ![ERD](docs/ERD_booking_system.png)
    *Bảng chính: `Guest, Staff, RoomType, Room, Reservation, Payment` • Quan hệ: `Guest 1–n Reservation`, `RoomType 1–n Room`, `Room 1–n Reservation`, `Reservation 0–n Payment`, `Staff 0–n Reservation`.*
+   ![ERD](docs/ERD_booking_system.png)
 
 ## 🚀 Công cụ sử dụng
 - **Jira:** Quản lý Product Backlog, Sprint Planning, Board.  
