@@ -28,7 +28,7 @@ Dự án Lab 2 mô phỏng hệ thống đặt phòng khách sạn: tìm phòng 
    `docs/sequence_checkin_checkout.png`
    *Check-in: `Room=Occupied`, `Reservation=CheckedIn` • Check-out: tính phí → cập nhật trạng thái.*
 
-4. **Sequence Diagram – Thanh toán online** (bổ sung thêm)
+4. **Sequence Diagram – Thanh toán online** (tôi bổ sung thêm)
    `docs/sequence_online_payment.png`
 
 5. **ERD (Entity Relationship Diagram)**
