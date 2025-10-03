@@ -18,7 +18,7 @@ Dự án Lab 2 mô phỏng hệ thống đặt phòng khách sạn: tìm phòng 
 ## 🖼️ Các sơ đồ UML & ERD  *(PNG trong `docs/`)*
 
 1. **Use Case Diagram**
-   `docs/usecase_diagram.png`  *(nếu bạn export ra `usecase_diagram.puml.png` thì dùng đúng tên đó)*
+   `docs/usecase_diagram.png`  
 
 2. **Sequence Diagram – Đặt phòng (Booking)**
    `docs/sequence_booking.png`
@@ -28,7 +28,7 @@ Dự án Lab 2 mô phỏng hệ thống đặt phòng khách sạn: tìm phòng 
    `docs/sequence_checkin_checkout.png`
    *Check-in: `Room=Occupied`, `Reservation=CheckedIn` • Check-out: tính phí → cập nhật trạng thái.*
 
-4. **(Tuỳ chọn) Sequence Diagram – Thanh toán online**
+4. **Sequence Diagram – Thanh toán online** (bổ sung thêm)
    `docs/sequence_online_payment.png`
 
 5. **ERD (Entity Relationship Diagram)**
